@@ -18,4 +18,9 @@ Solution to Advent of Code 2024
     <td> ⭐ </td>
     <td> ⭐ </td>
   </tr>
+  <tr>
+    <td> Day 3 </td>
+    <td> ⭐ </td>
+    <td> ⭐ </td>
+  </tr>
 </table>
